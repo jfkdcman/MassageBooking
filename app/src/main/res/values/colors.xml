@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBottomNavBackground">#4ea092</color>
+    <color name="colorBottomNavIconUnselected">#2f6158</color>
+    <color name="colorBottomNavIconSelected">#e6edec</color>
+    <color name="colorBottomNavRipple">#bad1bc</color>
+    <color name="colorDarkGray">#545454</color>
+
+    <color name="colorLightGray">#f0f0f0</color>
+    <color name="colorLAlmostWhite">#fcfcfc</color>
+
+    <color name="colorDarkRed">#cf0404</color>
+</resources>

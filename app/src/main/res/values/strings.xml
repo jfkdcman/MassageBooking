@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Green Lotus</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="announcement">Announcement</string>
+    <string name="account">Account</string>
+</resources>
